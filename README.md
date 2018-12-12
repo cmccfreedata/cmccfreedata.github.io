@@ -1,2 +1,1 @@
-# cmccfreedata.github.io
-free data
+# free data
